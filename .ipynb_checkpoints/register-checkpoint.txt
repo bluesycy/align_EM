@@ -1,0 +1,3 @@
+./cmtk.sh "/nfs/data8/chuyu/data/20230422_130558/20230422_130558_PICA_crop_rotate.nrrd" "/nfs/data8/chuyu/data/20230422_130558/20230422_130558_connectome_mask_img_rotate.nrrd" "/nfs/data8/chuyu/data/20230422_130558/connectome_register"
+
+./cmtk.sh "/nfs/data8/chuyu/data/20230422_130558/20230422_130558_connectome_mask_img_rotate.nrrd" "/nfs/data8/chuyu/data/20230422_130558/20230422_130558_PICA_crop_rotate.nrrd" "/nfs/data8/chuyu/data/20230422_130558/connectome_register_inverse"
